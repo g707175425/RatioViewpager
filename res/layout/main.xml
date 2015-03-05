@@ -5,11 +5,11 @@
     <com.gys.viewpager.MyRatioPagerContainer
         android:id="@+id/container"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="fill_parent"
         android:background="#CCC">
         <com.gys.viewpager.MyRatioViewPager
             android:layout_width="fill_parent"
-            android:layout_height="wrap_content"
+            android:layout_height="fill_parent"
             android:layout_gravity="center_horizontal" />
     </com.gys.viewpager.MyRatioPagerContainer>
 </RelativeLayout>
