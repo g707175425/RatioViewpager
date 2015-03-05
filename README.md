@@ -1,5 +1,8 @@
 # RatioViewpager
 可以按比例显示上一页的一部分和下一页的一部分的Viewpager
+
+![](https://github.com/g707175425/RatioViewpager/blob/master/Screenshot.png)
+
 Xml中的使用:
 
 	<com.gys.viewpager.MyRatioPagerContainer
